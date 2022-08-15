@@ -7,25 +7,30 @@ Las principales pantallas son:
 Register
 
 Cuando el usuario ingrese a la aplicacin tendrá la opción de registrar sus credenciales de acceso, sus tematicas preferidas y sus datos personales.
-![](/Home@1x.png)
+
+![](/Register@1x.png)
 
 Login
 
 Cuando el usuaro se haya registrado podrá ingresar sus credenciales de acceso y entrar a hacer uso de las funcionalidades de la aplicacion
-![](/Home@1x.png)
+
+![](/Login@1x.png)
 
 Home
 
 En esta pantalla encontramos las tematicas que hemos seleccionado en nuestro apartado de gustos en el registro, podemos ver nuestro perfil y otras funcionalidades como la opción de entrar a una sala aleatoria, buscar las salas más solicitadas en el momentoy buscar las salas por el nombre de su tematica
+
 ![](/Home@1x.png)
 
 Trending
 
 En esta pantalla se evidencia las tematicas más buscadas en orden descendente.
-![](/Home@1x.png)
+
+![](/Trending@1x.png)
 
 Llamada
 
 Al seleccionar cualquier tematica, esta nos enviará a la pantalla de llamada de la respectiva tematica, donde antes podremos seleccionar si entramos a la llamada o por
 el contrario volver al Home
-![](/Home@1x.png)
+
+![](/Llamada@1x.png)
