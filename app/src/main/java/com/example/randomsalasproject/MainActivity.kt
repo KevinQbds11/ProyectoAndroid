@@ -23,10 +23,9 @@ class MainActivity : AppCompatActivity() {
         logToReg.setOnClickListener {
             startActivity(Intent(this,Register::class.java ))
         }
-        /*val logToHome: Button = findViewById(R.id.signIn)
+        val logToHome: Button = findViewById(R.id.signIn)
         logToHome.setOnClickListener {
-            val intent: Intent= Intent(this,Home::class.java )
-            startActivity(intent)
-        }*/
+            startActivity(Intent(this,Home::class.java))
+        }
     }
 }
