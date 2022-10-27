@@ -59,6 +59,7 @@ class MainActivity : AppCompatActivity() {
                         showHome(it.result?.user?.email?:"",ProviderType.BASIC)
                     }else{
                         showAlert()
+                        //comment
                     }
                 }
             }
