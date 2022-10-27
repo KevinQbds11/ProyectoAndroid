@@ -123,7 +123,7 @@
         app:srcCompat="@drawable/home1x" />
 
     <TextView
-        android:id="@+id/textView9"
+        android:id="@+id/contactName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="21dp"
@@ -134,14 +134,14 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
     <TextView
-        android:id="@+id/textView10"
+        android:id="@+id/emailShow"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="14dp"
         android:text="contactname@loquesea.com"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView9" />
+        app:layout_constraintTop_toBottomOf="@+id/contactName" />
 
     <TextView
         android:id="@+id/textView11"
@@ -152,7 +152,7 @@
         android:textSize="20sp"
         app:layout_constraintBottom_toTopOf="@+id/textView13"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView10"
+        app:layout_constraintTop_toBottomOf="@+id/emailShow"
         app:layout_constraintVertical_bias="0.642" />
 
     <ImageView
@@ -166,7 +166,7 @@
         app:layout_constraintEnd_toStartOf="@+id/textView11"
         app:layout_constraintHorizontal_bias="0.666"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView10"
+        app:layout_constraintTop_toBottomOf="@+id/emailShow"
         app:layout_constraintVertical_bias="0.0"
         app:srcCompat="@drawable/home1x2" />
 
@@ -207,13 +207,13 @@
         app:layout_constraintVertical_bias="0.771" />
 
     <ImageView
-        android:id="@+id/signOut"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:id="@+id/homeLogOut"
+        android:layout_width="58dp"
+        android:layout_height="51dp"
         android:layout_marginEnd="84dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/imageView"
-        app:layout_constraintHorizontal_bias="0.58"
+        app:layout_constraintHorizontal_bias="0.166"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.023"

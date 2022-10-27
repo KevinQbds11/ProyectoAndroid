@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126718324630",
+    "project_id": "randomsalas-ad4b2",
+    "storage_bucket": "randomsalas-ad4b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126718324630:android:96d3ae81884880249b37b7",
+        "android_client_info": {
+          "package_name": "com.example.randomsalasproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126718324630-603qmqot6uk7pl2h9poefp6vi059eper.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGujEkn-E2mBgFlYkG5rEM7UBseZFhf6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126718324630-603qmqot6uk7pl2h9poefp6vi059eper.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

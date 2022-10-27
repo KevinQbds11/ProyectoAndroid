@@ -74,7 +74,7 @@
         android:contentDescription="" />
 
     <EditText
-        android:id="@+id/editTextTextEmailAddress"
+        android:id="@+id/editTextTextEmailLog"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -88,7 +88,7 @@
         app:layout_constraintVertical_bias="0.192" />
 
     <EditText
-        android:id="@+id/editTextTextPassword"
+        android:id="@+id/editTextTextPasswordLog"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -97,7 +97,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.502"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextEmailAddress"
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextEmailLog"
         app:layout_constraintVertical_bias="0.206" />
 
     <TextView
@@ -106,7 +106,7 @@
         android:layout_height="wrap_content"
         android:text="Email"
         android:textSize="16sp"
-        app:layout_constraintBottom_toTopOf="@+id/editTextTextEmailAddress"
+        app:layout_constraintBottom_toTopOf="@+id/editTextTextEmailLog"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.103"
         app:layout_constraintStart_toStartOf="parent"
@@ -119,10 +119,10 @@
         android:layout_height="wrap_content"
         android:text="Password"
         android:textSize="16sp"
-        app:layout_constraintBottom_toTopOf="@+id/editTextTextPassword"
+        app:layout_constraintBottom_toTopOf="@+id/editTextTextPasswordLog"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.111"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/editTextTextEmailAddress" />
+        app:layout_constraintTop_toBottomOf="@+id/editTextTextEmailLog" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

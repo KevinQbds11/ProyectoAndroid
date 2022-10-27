@@ -10,7 +10,7 @@ class Llamada : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_llamada)
 
-        val callToHome: ImageView = findViewById(R.id.signOut)
+        val callToHome: ImageView = findViewById(R.id.homeLogOut)
         callToHome.setOnClickListener {
             startActivity(Intent(this,Home::class.java))
         }
